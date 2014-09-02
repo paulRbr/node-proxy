@@ -1,0 +1,17 @@
+{
+  "name": "peaceful-coast-9239",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.1.1",
+    "express": "~3.4.x",
+    "proxy-middleware": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
